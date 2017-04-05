@@ -1,4 +1,4 @@
-# Proyek KOMUNIKASI DATA & JARINGAN [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/sudtanj/OS-Project)
+# PROYEK KOMUNIKASI DATA & JARINGAN [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/sudtanj/OS-Project)
 
 ## Project Member
 | No | Profile Picture | Member Name | Github Userid | Student Id Number |
